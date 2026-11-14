@@ -1,0 +1,1 @@
+{"smoke_x": true, "out": "out/full", "runs": [["xd", "i3d"], ["thumos", "i3d"]], "inits": ["const200"], "seeds": [0]}

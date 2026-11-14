@@ -1,0 +1,1 @@
+{"smoke": true, "bidir": true, "out": "out/bsmoke", "runs": [["thumos", "i3d"], ["xd", "i3d"]], "inits": ["const200", "standard"], "seeds": [0], "extra_seed": 0}

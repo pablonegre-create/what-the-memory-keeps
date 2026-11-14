@@ -1,0 +1,11 @@
+data/
+ext/
+out/
+figures/
+__pycache__/
+*.pyc
+.venv/
+*.log
+*.npz
+*.npy
+*.pt

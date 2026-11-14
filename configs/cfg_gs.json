@@ -1,0 +1,1 @@
+{"smoke": true, "cell": "gru", "out": "out/gsmoke", "runs": [["thumos", "i3d"], ["xd", "i3d"]], "inits": ["const200", "standard"], "seeds": [0], "extra_seed": 0}

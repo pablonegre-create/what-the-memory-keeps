@@ -1,0 +1,1 @@
+{"cell": "gru", "out": "out/gru", "runs": [["xd", "i3d"], ["xd", "clip"], ["ucf", "clip"], ["thumos", "i3d"], ["ucf", "i3d"]], "inits": ["const200", "standard"], "seeds": [0, 1, 2, 3, 4], "extra_seed": 0}
